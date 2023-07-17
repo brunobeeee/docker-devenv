@@ -1,3 +1,3 @@
-# docker-devenv
-This is a minimal template to create a Docker DevEnv in the Docker Desktop client. Copy these files to your new project to add the DevEnv functionality. You can put additional code in the dockerfile to run on container startup. But when opening the container in VSCode all progress sadly gets lost.
+# node-docker-devenv
+This is a minimal template to create a Node.js Docker Development Environment in the Docker Desktop client. Copy these files to your new project to add the DevEnv functionality. You can put additional code in the dockerfile to run on container startup. But when opening the container in VSCode all progress sadly gets lost.
 To setup the DevEnv open Docker Desktop and got to `Dev Environments -> Create` and provide the URL to this repository. Now Docker sets up the container which you can then open in VSCode. The directory where all the repository content gets loaded in is /com.docker.devenvironment.code.
