@@ -1,4 +1,4 @@
-# node-docker-devenv
+# docker-nodejs
 This is a minimal template to create a Node.js Docker Development Environment. You can do this either by using Docker-Compose or Docker Dev Environments in the desktop client.
 
 ## Docker-Compose (recommended)
